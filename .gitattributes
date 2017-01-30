@@ -1,4 +1,5 @@
 *.html linguist-language=false
 *.css linguist-language=false
 
-100% linguist-language=Ruby
+90% Ruby
+10% HTML
