@@ -1,1 +1,2 @@
-*.html linguist-language=Ruby
+special-vendored-path/* linguist-vendored
+*.css linguist-vendored=false
