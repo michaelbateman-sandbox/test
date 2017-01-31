@@ -1,6 +1,5 @@
 *.html linguist-language=false
 *.css linguist-language=false
-*.md linguist-vendored=true
-*.md linguist-language=Python
+*.md linguist-language=Ruby
 
 100.00% Ruby
